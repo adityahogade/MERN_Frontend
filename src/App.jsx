@@ -2,7 +2,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import { createContext, useState } from "react";
 
 import Login from "./pages/CommonLogin";
-import Signup from "./pages/User/signup";
+import Signup from "./pages/User/Signup";
 
 import Home from "./pages/User/home";
 import Profile from "./pages/User/profile";
