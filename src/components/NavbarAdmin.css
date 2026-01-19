@@ -1,0 +1,39 @@
+.nav-list .nav-item {
+  margin-right: 12px;
+}
+
+.nav-item-style {
+  color: white !important;
+  padding: 8px 14px !important;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: 0.25s ease;
+}
+
+.nav-item-style:hover {
+  background: rgba(255, 255, 255, 0.18);
+  color: #ffffff !important;
+}
+
+.nav-dropdown-menu {
+  border-radius: 10px !important;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
+}
+
+.dropdown-item-custom {
+  padding: 10px 15px;
+  transition: 0.2s ease;
+  font-size: 15px;
+}
+
+.dropdown-item-custom:hover {
+  background: #e0f2fe;       /* soft blue hover */
+  color: #0ea5e9 !important; /* matches navbar theme */
+}
+
+.admin-btn {
+  border-radius: 10px;
+  font-weight: 600;
+}

@@ -1,0 +1,37 @@
+.videos-bg {
+  background: #f7f9fc;
+  min-height: 100vh;
+  padding-bottom: 30px;
+}
+
+.video-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 15px;
+  border-left: 5px solid #0ea5e9;
+}
+
+.video-table th,
+.video-table td {
+  vertical-align: middle;
+}
+
+.video-table thead {
+  text-align: center;
+}
+
+.watch-btn {
+  border-radius: 8px;
+  padding: 4px 12px;
+  transition: 0.2s ease;
+}
+
+.watch-btn:hover {
+  transform: scale(1.1);
+  background: #dc2626;
+  color: white;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #e9f5ff;
+}

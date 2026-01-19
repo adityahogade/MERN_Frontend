@@ -1,0 +1,36 @@
+.allcourse-bg {
+  min-height: 100vh;
+  background: #f4f6f9;
+  padding-bottom: 40px;
+}
+
+.custom-header {
+  background: linear-gradient(90deg, #2563eb, #3b82f6);
+  border-radius: 5px 5px 0 0;
+}
+
+.custom-table thead {
+  background: #111827;
+  color: white;
+}
+
+.custom-table tbody tr:hover {
+  background: #f1f5f9;
+}
+
+
+.action-btn {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  transition: 0.25s;
+}
+
+.action-btn:hover {
+  transform: scale(1.1);
+}
+
+
+.card {
+  border-radius: 12px;
+}

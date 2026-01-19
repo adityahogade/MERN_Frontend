@@ -1,0 +1,43 @@
+
+.allvideo-bg {
+  background: #f7f9fc;
+  min-height: 100vh;
+  padding-bottom: 30px;
+}
+
+.video-card {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  border-left: 5px solid #0ea5e9;
+}
+
+.filter-select {
+  width: 260px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  padding: 8px;
+}
+
+.filter-select:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 6px rgba(14, 165, 233, 0.5);
+}
+
+.video-table th {
+  text-align: center;
+}
+
+.video-table td {
+  vertical-align: middle;
+}
+
+.action-btn {
+  border-radius: 8px;
+  padding: 4px 10px;
+  transition: 0.2s;
+}
+
+.action-btn:hover {
+  transform: scale(1.1);
+}
