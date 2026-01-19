@@ -19,7 +19,7 @@ import AllCourses from "./pages/Admin/AllCourses";
 import AdminVideosByCourse from "./pages/Admin/VideosByCourse";
 import AllVideo from "./pages/Admin/Allvideo";
 import AddVideo from "./pages/Admin/AddVideo";
-import UpdateVideo from "./pages/Admin/updateVideo";
+import UpdateVideo from "./pages/Admin/UpdateVideo";
 
 import AdminRoutes from "./routes/AdminRoutes";
 import UserRoutes from "./routes/UserRoutes";
