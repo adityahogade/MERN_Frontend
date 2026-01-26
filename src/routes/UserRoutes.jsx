@@ -7,6 +7,7 @@ const UserRoutes = ({ children }) => {
 
   try {
     const decoded = jwtDecode(token);
+    console.log(decoded);
 
     if (decoded.role !== "user") {
       return <Navigate to="/admin/home" replace />;
