@@ -20,7 +20,7 @@ export default function Home() {
   }, []);
 
   const showvideoclick = (id) => {
-    navigateTo(`/my-videos/${id}`)
+    navigateTo(`/admin/my-videos/${id}`)
 
   }
   const getCourse = async () => {
