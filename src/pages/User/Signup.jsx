@@ -77,7 +77,7 @@ function Signup() {
             <input
               type="email"
               className="form-control"
-              placeholder="Enter your email"
+              placeholder="Enter your email as user/student"
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
