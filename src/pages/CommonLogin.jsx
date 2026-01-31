@@ -67,7 +67,7 @@ function CommonLogin() {
             <input
               type="email"
               className="form-control"
-              placeholder="Enter your email"
+              placeholder="admin@gmail.com for admin"
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
@@ -77,7 +77,7 @@ function CommonLogin() {
             <input
               type="password"
               className="form-control"
-              placeholder="Enter your password"
+              placeholder="admin  //for admin login"
               onChange={(e) => setPassword(e.target.value)}
             />
           </div>
