@@ -1,6 +1,6 @@
 
 const config = {
-  BASE_URL: "https://expressbackend-production-9b62.up.railway.app"
+  BASE_URL: "https://express-backend-wxjv.onrender.com"
 };
 
 export default config;
